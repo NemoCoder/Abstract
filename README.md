@@ -4,9 +4,8 @@
 
 ## 中文期刊
 
-### 经济研究
-
-### 管理世界
+- [《经济研究》](https://github.com/NemoCoder/Abstract/tree/master/%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6)
+- 管理世界
 
 
 ## 英文期刊
